@@ -10,7 +10,8 @@ The goal of testpackageTest is to …
 
 ## Installation
 
-This package is only available by permission of the author at:
+You can install the released version of testpackageTest by contacting
+me.
 
 ``` r
 install.packages("testpackageTest")
